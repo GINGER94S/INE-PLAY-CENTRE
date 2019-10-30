@@ -1,0 +1,15 @@
+h1{color : rgb(162, 162, 247);
+ background:rgb(red, green, blue) blue;
+}
+body{ 
+    background-image: url(123.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+span{
+    background: #008822;
+    width: 100%;
+    height: 100%;
+    border-block-color: 2px solid black ;
+    padding: 1%;
+}
