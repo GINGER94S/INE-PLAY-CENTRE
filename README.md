@@ -2,10 +2,17 @@
 It’s a project for my crèche  showing the services l offer online 
 
 INTRODUCTION
+
 INE PLAYCENTRE CRENCH is a school for little children located in sunningdale harare,ZIMBABWE.The school is developing into a big a school
 and to make advertisment easier l have decided to create a website showing more information about this school.its going to show type of 
 education they offer and also facilities.
 showing more information about the school
+
+##  MATERIALS to be used for this App
+1. HTML
+2. CSS
+3. BOOT STRAP
+4. NODEJS
 
 ## Technologies features
 1. Front end
